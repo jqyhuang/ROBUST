@@ -7,8 +7,6 @@ ROBUST provides a set of tools to calculate physics based descriptors from molec
 Along with the transformers we provide a number of examples cases.
 
 ----------------------
-Add Description
-
 
 ## Requirements
 
